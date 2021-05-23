@@ -1,0 +1,11 @@
+*.jpg
+*.tar
+key.pem
+__pycache__
+
+# not ready yet
+tor_relay.py
+email_sender.py
+ESP32-CAM
+util_scripts
+example
